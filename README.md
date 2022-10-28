@@ -1,1 +1,1 @@
-# transition
+# Transicion aplicada con javascript
